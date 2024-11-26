@@ -9,7 +9,6 @@ Displays a LazyColumn list of items.
 Allows clicking on each item to navigate to a detail screen.
 - Performance Benchmarking:
 Benchmarks for app startup time and scrolling performance using Macrobenchmark.
-Tests different compilation modes: None and Partial.
 - Hilt for Dependency Injection:
 Simplifies dependency management and promotes clean architecture.
 
